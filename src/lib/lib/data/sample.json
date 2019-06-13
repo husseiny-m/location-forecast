@@ -1,0 +1,14 @@
+[
+  {
+    "locationName": "America/New_York",
+    "postalCode" : "10005,us"
+  },
+  {
+    "locationName": "Asia/Tokyo",
+    "postalCode" : "100-0000,jp"
+  },
+  {
+    "locationName": "Europe/Rome",
+    "postalCode" : "38100,it"
+  }
+]
