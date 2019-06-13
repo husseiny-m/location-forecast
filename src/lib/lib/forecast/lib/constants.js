@@ -3,4 +3,4 @@ const api = {
   appId: 'e1d4d70a863323bc102d5527d06faf08' // this should not be clear text here, but for lake of time kept it this way
 };
 
-module.exports = { api };
+module.exports = {api};
