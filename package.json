@@ -1,0 +1,21 @@
+{
+  "name": "location-forecast",
+  "version": "1.0.0",
+  "description": "Returns the current time and weather for a location",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husseiny-m/location-forecast.git"
+  },
+  "author": "Husseiny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/husseiny-m/location-forecast/issues"
+  },
+  "homepage": "https://github.com/husseiny-m/location-forecast#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
