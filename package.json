@@ -4,6 +4,7 @@
   "description": "Returns the current time and weather for a location",
   "scripts": {
     "test": "jest",
+    "start": "node index.js",
     "eslint": "node ./node_modules/eslint/bin/eslint.js .",
     "eslint-fix": "node ./node_modules/eslint/bin/eslint.js . --fix",
     "pretest": "npm run eslint"
